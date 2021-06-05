@@ -1,2 +1,1 @@
-# Headphones Store
- 
+Information Page made with HTML CSS and bootstrap
